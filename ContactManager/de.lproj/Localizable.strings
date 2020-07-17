@@ -1,0 +1,10 @@
+/*
+  Localizable.strings
+  ContactManager
+
+  Created by Ruben Christian Buhl on 12.12.14.
+  Copyright (c) 2014 Ruben Christian Buhl. All rights reserved.
+*/
+
+"Create Contact" = "Kontakt erstellen";
+"Edit Contact" = "Kontakt bearbeiten";

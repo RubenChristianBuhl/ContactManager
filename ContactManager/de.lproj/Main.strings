@@ -1,0 +1,36 @@
+
+/* Class = "IBUIButton"; normalTitle = "Choose Image"; ObjectID = "23o-ul-fhn"; */
+"23o-ul-fhn.normalTitle" = "Bild auswählen";
+
+/* Class = "IBUITextField"; placeholder = "Latitude"; ObjectID = "5Dv-CN-dyj"; */
+"5Dv-CN-dyj.placeholder" = "Breitengrad";
+
+/* Class = "IBUINavigationItem"; title = "Contacts"; ObjectID = "6lJ-j1-aRr"; */
+"6lJ-j1-aRr.title" = "Kontakte";
+
+/* Class = "IBUITextField"; placeholder = "URL"; ObjectID = "CO9-JZ-AkG"; */
+"CO9-JZ-AkG.placeholder" = "URL";
+
+/* Class = "IBUITextField"; placeholder = "Lastname"; ObjectID = "D3z-nK-Ihh"; */
+"D3z-nK-Ihh.placeholder" = "Nachname";
+
+/* Class = "IBUITextField"; placeholder = "Longitude"; ObjectID = "F0Y-6W-NW9"; */
+"F0Y-6W-NW9.placeholder" = "Längengrad";
+
+/* Class = "IBUITextField"; placeholder = "E-Mail"; ObjectID = "JJh-3b-ycG"; */
+"JJh-3b-ycG.placeholder" = "E-Mail";
+
+/* Class = "IBUITextField"; placeholder = "Firstname"; ObjectID = "U4q-js-Dlh"; */
+"U4q-js-Dlh.placeholder" = "Vorname";
+
+/* Class = "IBUITabBarItem"; title = "Map"; ObjectID = "kkN-Zm-lBN"; */
+"kkN-Zm-lBN.title" = "Karte";
+
+/* Class = "IBUILabel"; text = "Name"; ObjectID = "mIg-sX-9VN"; */
+"mIg-sX-9VN.text" = "Name";
+
+/* Class = "IBUILabel"; text = "AFNetworking"; ObjectID = "svR-zr-IKL"; */
+"svR-zr-IKL.text" = "AFNetworking";
+
+/* Class = "IBUITabBarItem"; title = "Contact"; ObjectID = "ya8-Ry-2Yw"; */
+"ya8-Ry-2Yw.title" = "Kontakt";
